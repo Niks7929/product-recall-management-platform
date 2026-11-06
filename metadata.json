@@ -1,0 +1,6 @@
+{
+  "name": "RecallGuard - Enterprise Product Recall Management Platform",
+  "description": "An enterprise-grade Product Recall Management Platform featuring public recall registries, automated affected customer detection, return & refund workflows, role-based dashboards, and cryptographically secure authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
