@@ -191,7 +191,7 @@ npm start
 
 ---
 
-## 🚢 How to Push to GitHub (प्रोजेक्ट GitHub ला कसा टाकायचा)
+## 🚢 How to Push to GitHub 
 
 Follow these steps in your terminal to push this project to your GitHub repository:
 
